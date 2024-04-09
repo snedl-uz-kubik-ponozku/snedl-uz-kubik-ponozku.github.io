@@ -1,1 +1,1 @@
-# snedl-uz-kubik-ponozku.github.io
+# Snědl už [Kubík](https://chamik.eu/) ponožku?
