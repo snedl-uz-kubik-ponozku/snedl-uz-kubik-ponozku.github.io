@@ -1,0 +1,20 @@
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$bodyFont: "serif";
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+  text-align: center;
+}
+.info{
+  font-size: xx-large;
+  font-weight: bold;
+}
+.btn.btn-rss{
+  font-size: x-small;
+  position:absolute;
+  bottom:0;
+  padding-bottom: 15px;
+}
